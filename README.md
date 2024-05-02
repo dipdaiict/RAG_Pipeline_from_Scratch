@@ -30,3 +30,5 @@ I have implemented a pipeline from scratch based on a YouTube video for Referenc
 
 9. **Integration with Open Source LLM**
    - Fed queries and embeddings into an open-source Large Language Model (LLM) for better output.
+
+**Thanks to 🫡: Daniel Bourke [Youtube](https://youtu.be/qN_2fnOPY-M?si=Y9DwTiOLt7RfNvPV)**
